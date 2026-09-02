@@ -41,13 +41,6 @@ From my product perspective, the major challenges included:
 - **AI Opportunity** — Identifying areas where AI could reduce analysis effort and make complex information easier to interpret.
 - **Product Prioritization** — Balancing user needs, business priorities, product roadmap, and delivery feasibility.
 
-## How the Product Works
-
-At a high level, the platform brings together energy-related information and transforms it into structured analytics, dashboards, insights, and reports.
-
-**Data → Analytics → Insights → Decision Support**
-
-My product involvement focused on shaping how users interact with this information, defining relevant product capabilities, and exploring opportunities to make analysis more efficient through AI and automation.
 
 ## My Role
 
@@ -149,20 +142,22 @@ The focus was on making complex information easier to explore, understand, and u
 
 ## Metrics & KPIs
 
-A key part of the product work was identifying meaningful metrics that could help users understand energy performance and support data-driven decisions.
+A key part of the product work was identifying product-level KPIs to understand adoption, engagement, and the overall effectiveness of the product experience.
 
-The product experience considered metrics and analytical views such as:
+The product success framework considered metrics such as:
 
-- Energy consumption
-- Average usage
-- Peak demand
-- Energy cost
-- Carbon emissions
-- Historical trends
-- Performance comparisons
-- Period-over-period analysis
+- **User Acquisition Rate** — Measuring growth in new users or customer accounts
+- **Activation Rate** — Measuring how effectively new users reach meaningful product adoption
+- **User Retention Rate** — Understanding whether users continue to engage with the product over time
+- **Product Adoption Rate** — Measuring adoption of core product capabilities
+- **Feature Adoption Rate** — Understanding usage of newly introduced or priority features
+- **User Engagement** — Measuring the frequency and depth of product interaction
+- **Conversion Rate** — Tracking movement from initial interest or usage toward desired product actions
+- **Customer/User Growth** — Monitoring overall growth of the product user base
+- **Time to Value** — Understanding how quickly users reach meaningful value from the product
+- **Task/Workflow Completion Rate** — Measuring whether users successfully complete key product workflows
 
-I focused on defining metrics in a way that was relevant to the user's context and could support meaningful analysis rather than simply presenting large volumes of data.
+I focused on connecting product capabilities with measurable user and business outcomes rather than evaluating success only through the underlying domain data.
 
 ## Key Learnings
 
