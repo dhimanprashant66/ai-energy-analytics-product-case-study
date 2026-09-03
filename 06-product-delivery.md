@@ -253,3 +253,57 @@ The delivery process reinforced an important product principle:
 > **Successful delivery is not simply completing requirements; it is ensuring that the delivered product solves the intended user problem.**
 
 The focus throughout execution was therefore on maintaining the connection between the original problem, the product decision, the implementation, and the resulting user experience.
+
+
+## Product Role During Delivery
+
+My role during delivery was to maintain alignment between the intended product outcome and the functionality being developed.
+
+### Before Development
+
+I focused on:
+
+- Clarifying the problem and expected outcome
+- Refining requirements
+- Breaking requirements into actionable user stories
+- Defining acceptance criteria
+- Aligning scope and priorities with stakeholders
+- Working with design and engineering to identify dependencies and constraints
+
+### During Development
+
+I supported the team by:
+
+- Clarifying requirements and expected behavior
+- Resolving product-related questions
+- Reviewing changes against the intended user workflow
+- Managing requirement clarifications and scope discussions
+- Supporting prioritization when trade-offs were required
+
+### During Testing & UAT
+
+I focused on:
+
+- Validating functionality against acceptance criteria
+- Checking whether the implemented experience matched the intended workflow
+- Identifying gaps or usability issues
+- Coordinating feedback from relevant stakeholders
+- Supporting issue prioritization and resolution
+- Refining requirements where new information emerged
+
+### Product Delivery Principle
+
+The objective was not simply to ensure that requirements were delivered.
+
+The objective was to ensure that:
+
+```text
+Requirement
+     ↓
+Implementation
+     ↓
+Validation
+     ↓
+User / Stakeholder Feedback
+     ↓
+Product Refinement
