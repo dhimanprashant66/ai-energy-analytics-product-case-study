@@ -200,6 +200,35 @@ AI should be introduced where it can reduce effort, improve interpretation, or p
 The product should support an MVP-first approach while leaving room for future analytical and AI capabilities.
 
 ---
+## Product Trade-offs & Decisions
+
+Product decisions were evaluated by balancing user value, business relevance, feasibility, complexity, and delivery effort.
+
+### Decision 1 — Progressive Information Exploration
+
+**Decision:** Structure the experience so users can start with a high-level view and progressively move into deeper analysis.
+
+**Why:** Presenting all available information at once could increase complexity and cognitive load. Progressive exploration provided a clearer path from overview to detailed investigation.
+
+### Decision 2 — Workflow-Centered Capabilities
+
+**Decision:** Connect analytics, comparison, reporting, and AI capabilities to a broader user workflow rather than treating them as isolated features.
+
+**Why:** Users typically move between multiple activities when investigating a problem. Connecting capabilities creates a more coherent experience and reduces unnecessary navigation.
+
+### Decision 3 — Incremental AI Adoption
+
+**Decision:** Treat AI as an enhancement to validated product workflows rather than making AI the primary product experience.
+
+**Why:** This allowed AI opportunities to be evaluated based on genuine user value, feasibility, trust, and expected effort reduction while avoiding unnecessary product complexity.
+
+### Decision 4 — MVP-First Delivery
+
+**Decision:** Prioritize core information, navigation, analytics, comparison, and reporting capabilities before expanding into broader AI capabilities.
+
+**Why:** Establishing the core product workflow first created a stronger foundation for evaluating where AI could provide additional value.
+
+---
 
 ## Constraints and Considerations
 
