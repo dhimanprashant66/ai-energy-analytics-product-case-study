@@ -131,3 +131,56 @@ A key principle from the UX work was:
 **Good UX is not about showing more information; it is about helping users reach the right information with less effort.**
 
 My focus was therefore on connecting user needs, product requirements, information architecture, and workflows into a coherent product experience.
+
+## UX Decision Principles
+
+UX decisions were guided by the underlying user workflow rather than by individual screens or features.
+
+The key principles were:
+
+### 1. Start With the User's Objective
+
+Each workflow was considered from the perspective of what the user was trying to accomplish rather than what functionality the platform could expose.
+
+### 2. Progressive Disclosure
+
+Users should be able to start with a high-level understanding and move into deeper information when required.
+
+This helps manage complexity without removing access to detailed information.
+
+### 3. Contextual Navigation
+
+Navigation and drill-down experiences should preserve enough context for users to understand where they are and why they are viewing a particular level of information.
+
+### 4. Minimize Unnecessary Steps
+
+Important workflows should avoid unnecessary navigation and interactions wherever possible.
+
+The objective was to reduce friction between identifying a question and reaching the information needed to investigate it.
+
+### 5. Design Around Workflows
+
+Analytics, comparison, reporting, and other capabilities should support connected user workflows rather than operate as isolated features.
+
+### 6. Validate Through Feedback
+
+UX decisions should be refined through stakeholder feedback, user feedback, testing, and observation of workflow friction.
+
+---
+
+## Product-to-UX Connection
+
+The UX approach followed a simple principle:
+
+```text
+User Problem
+     ↓
+User Objective
+     ↓
+User Workflow
+     ↓
+Information Required
+     ↓
+Interaction
+     ↓
+Outcome
