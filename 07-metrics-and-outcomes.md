@@ -209,3 +209,23 @@ A key principle from the measurement work was:
 > **A feature is not successful because it was delivered; it is successful when users adopt it, derive value from it, and contribute to meaningful product or business outcomes.**
 
 The measurement framework therefore connects product delivery with continuous learning and future product decisions.
+
+
+## Connecting Product Metrics to Outcomes
+
+Metrics were considered as a measurement framework rather than isolated numbers.
+
+The relationship can be viewed as:
+
+```text
+Acquisition
+     ↓
+Activation
+     ↓
+Adoption
+     ↓
+Engagement
+     ↓
+Retention
+     ↓
+Value
