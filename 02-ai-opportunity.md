@@ -154,6 +154,41 @@ The AI exploration reinforced several principles:
 
 ---
 
+## AI Opportunity Evaluation
+
+AI opportunities were evaluated from a product perspective rather than being prioritized solely because they were technically possible.
+
+The evaluation considered five dimensions:
+
+| Dimension | Key Question |
+|---|---|
+| User Value | Does the opportunity solve a meaningful user problem? |
+| Business Value | Can it contribute to an important product or business outcome? |
+| Feasibility | Can the capability be implemented reliably within the available constraints? |
+| Workflow Fit | Does AI naturally fit into an existing user workflow? |
+| Trust & Risk | Can users understand, validate, and appropriately rely on the output? |
+
+This helped distinguish opportunities where AI could create meaningful value from opportunities where traditional product functionality would be simpler or more appropriate.
+
+### AI Opportunity Decision Framework
+
+```text
+User Problem
+     ↓
+Is AI appropriate?
+     ↓
+User Value + Business Value
+     ↓
+Feasibility + Complexity
+     ↓
+Trust / Risk
+     ↓
+Workflow Fit
+     ↓
+Prioritize
+
+---
+
 ## Outcome
 
 The AI exploration helped identify practical areas where AI could potentially improve the product experience while keeping the focus on user value, usability, feasibility, and responsible product decision-making.
